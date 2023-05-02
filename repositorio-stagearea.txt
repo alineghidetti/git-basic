@@ -1,0 +1,22 @@
+*transformar uma pasta comum em repositório
+
+>cd local
+
+>git init
+
+!para verificar se deu certo: digitar "\." no endereço na pasta
+
+*adicionar arquivo na stage area:
+
+>git add arquivo.php
+
+!ou caso queira adicionar tudo
+
+>git add --all
+
+*apos tudo concluir as modificações precisamos salvar:
+
+>git commit -m (podendo adicionar uma mensagem)
+
+
+
