@@ -1,0 +1,12 @@
+*empurrar os arquivos para o servidor remoto:
+
+>git remote add origin (link do repositório)
+
+*definir nome e email de quem esta utilizando:
+
+>git config user.nome "nome"
+>git confifg user.email "email"
+
+*empurrar informações para o servidor:
+
+>git push origin master
